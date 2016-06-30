@@ -24,6 +24,7 @@ public class WikiPhilosophyTest {
 		// Because this lab is more open-ended than others, we can't provide unit
 		// tests.  Instead, we just check that you've modified WikiPhilosophy.java
 		// so it doesn't throw an exception.
+		System.out.println("Got to line 64");
 		String[] args = {};
 		try {
 			WikiPhilosophy.main(args);
